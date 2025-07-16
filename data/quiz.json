@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you feel when you see a spider?",
+      "options": [
+        { "text": "Completely calm", "score": 0 },
+        { "text": "Slightly uncomfortable", "score": 1 },
+        { "text": "Very anxious", "score": 2 },
+        { "text": "Panic and run away", "score": 3 }
+      ],
+      "category": "animals"
+    },
+    {
+      "id": 2,
+      "question": "How do you feel about heights?",
+      "options": [
+        { "text": "Love them, no problem", "score": 0 },
+        { "text": "A bit nervous but manageable", "score": 1 },
+        { "text": "Very uncomfortable", "score": 2 },
+        { "text": "Terrified, avoid completely", "score": 3 }
+      ],
+      "category": "situational"
+    },
+    {
+      "id": 3,
+      "question": "How do you feel in small, enclosed spaces?",
+      "options": [
+        { "text": "Perfectly fine", "score": 0 },
+        { "text": "Slightly cramped", "score": 1 },
+        { "text": "Need to get out quickly", "score": 2 },
+        { "text": "Immediate panic", "score": 3 }
+      ],
+      "category": "situational"
+    },
+    {
+      "id": 4,
+      "question": "How do you react to flying?",
+      "options": [
+        { "text": "Enjoy it", "score": 0 },
+        { "text": "Slightly nervous", "score": 1 },
+        { "text": "Very anxious", "score": 2 },
+        { "text": "Refuse to fly", "score": 3 }
+      ],
+      "category": "situational"
+    },
+    {
+      "id": 5,
+      "question": "How do you feel about snakes?",
+      "options": [
+        { "text": "Fascinated by them", "score": 0 },
+        { "text": "Cautious but okay", "score": 1 },
+        { "text": "Very uncomfortable", "score": 2 },
+        { "text": "Extremely terrified", "score": 3 }
+      ],
+      "category": "animals"
+    },
+    {
+      "id": 6,
+      "question": "How do you react to public speaking?",
+      "options": [
+        { "text": "Love the spotlight", "score": 0 },
+        { "text": "Nervous but manageable", "score": 1 },
+        { "text": "Very anxious", "score": 2 },
+        { "text": "Avoid at all costs", "score": 3 }
+      ],
+      "category": "social"
+    },
+    {
+      "id": 7,
+      "question": "How do you feel about thunderstorms?",
+      "options": [
+        { "text": "Find them exciting", "score": 0 },
+        { "text": "A bit unsettling", "score": 1 },
+        { "text": "Very frightening", "score": 2 },
+        { "text": "Hide until they pass", "score": 3 }
+      ],
+      "category": "environmental"
+    },
+    {
+      "id": 8,
+      "question": "How do you react to medical procedures?",
+      "options": [
+        { "text": "No problem at all", "score": 0 },
+        { "text": "Slightly nervous", "score": 1 },
+        { "text": "Very anxious", "score": 2 },
+        { "text": "Avoid medical care", "score": 3 }
+      ],
+      "category": "medical"
+    },
+    {
+      "id": 9,
+      "question": "How do you feel about deep water or oceans?",
+      "options": [
+        { "text": "Love swimming in deep water", "score": 0 },
+        { "text": "Cautious but okay", "score": 1 },
+        { "text": "Very uncomfortable", "score": 2 },
+        { "text": "Terrified of deep water", "score": 3 }
+      ],
+      "category": "environmental"
+    },
+    {
+      "id": 10,
+      "question": "How do you react to new technology?",
+      "options": [
+        { "text": "Excited to try it", "score": 0 },
+        { "text": "Cautious but willing", "score": 1 },
+        { "text": "Prefer familiar technology", "score": 2 },
+        { "text": "Avoid new technology", "score": 3 }
+      ],
+      "category": "modern"
+    }
+  ]
+}

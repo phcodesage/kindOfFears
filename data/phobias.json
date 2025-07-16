@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "name": "Arachnophobia",
+    "scientific": "Arachnophobia",
+    "category": "animals",
+    "definition": "An intense fear of spiders and other arachnids",
+    "symptoms": [
+      "Sweating when seeing spiders",
+      "Rapid heartbeat",
+      "Avoiding areas where spiders might be",
+      "Panic attacks"
+    ],
+    "tips": [
+      "Practice deep breathing exercises",
+      "Start with looking at pictures of spiders",
+      "Learn facts about spiders to reduce fear",
+      "Consider gradual exposure therapy"
+    ],
+    "icon": "🕷️"
+  },
+  {
+    "id": "2",
+    "name": "Acrophobia",
+    "scientific": "Acrophobia",
+    "category": "situational",
+    "definition": "An extreme fear of heights",
+    "symptoms": [
+      "Dizziness when looking down",
+      "Sweating palms",
+      "Trembling",
+      "Nausea"
+    ],
+    "tips": [
+      "Start with small heights",
+      "Practice relaxation techniques",
+      "Focus on your breathing",
+      "Use visualization exercises"
+    ],
+    "icon": "🏔️"
+  },
+  {
+    "id": "3",
+    "name": "Claustrophobia",
+    "scientific": "Claustrophobia",
+    "category": "situational",
+    "definition": "Fear of confined or enclosed spaces",
+    "symptoms": [
+      "Feeling trapped",
+      "Shortness of breath",
+      "Chest tightness",
+      "Urge to escape"
+    ],
+    "tips": [
+      "Practice mindfulness meditation",
+      "Use progressive muscle relaxation",
+      "Count backwards from 100",
+      "Focus on positive thoughts"
+    ],
+    "icon": "🚪"
+  },
+  {
+    "id": "4",
+    "name": "Trypophobia",
+    "scientific": "Trypophobia",
+    "category": "patterns",
+    "definition": "Fear of clusters of small holes",
+    "symptoms": [
+      "Nausea",
+      "Goosebumps",
+      "Feeling disgusted",
+      "Anxiety"
+    ],
+    "tips": [
+      "Avoid trigger images",
+      "Practice grounding techniques",
+      "Focus on calming activities",
+      "Seek professional help if severe"
+    ],
+    "icon": "🕳️"
+  },
+  {
+    "id": "5",
+    "name": "Ophidiophobia",
+    "scientific": "Ophidiophobia",
+    "category": "animals",
+    "definition": "Fear of snakes",
+    "symptoms": [
+      "Panic when seeing snakes",
+      "Avoiding nature areas",
+      "Sweating",
+      "Trembling"
+    ],
+    "tips": [
+      "Learn about snake behavior",
+      "Practice relaxation breathing",
+      "Start with cartoon snakes",
+      "Consider cognitive behavioral therapy"
+    ],
+    "icon": "🐍"
+  },
+  {
+    "id": "6",
+    "name": "Aerophobia",
+    "scientific": "Aerophobia",
+    "category": "situational",
+    "definition": "Fear of flying",
+    "symptoms": [
+      "Panic attacks before flights",
+      "Sweating",
+      "Nausea",
+      "Avoiding air travel"
+    ],
+    "tips": [
+      "Learn about flight safety",
+      "Practice breathing exercises",
+      "Use distraction techniques",
+      "Consider flight anxiety courses"
+    ],
+    "icon": "✈️"
+  },
+  {
+    "id": "7",
+    "name": "Agoraphobia",
+    "scientific": "Agoraphobia",
+    "category": "situational",
+    "definition": "Fear of open spaces or situations where escape might be difficult",
+    "symptoms": [
+      "Avoiding crowded places",
+      "Panic in open areas",
+      "Need for safe person nearby",
+      "Rapid heartbeat in public"
+    ],
+    "tips": [
+      "Start with short trips outside",
+      "Bring a trusted companion",
+      "Practice grounding techniques",
+      "Use positive self-talk"
+    ],
+    "icon": "🌍"
+  },
+  {
+    "id": "8",
+    "name": "Social Phobia",
+    "scientific": "Social Anxiety Disorder",
+    "category": "social",
+    "definition": "Intense fear of social situations and being judged by others",
+    "symptoms": [
+      "Blushing in social situations",
+      "Trembling when speaking",
+      "Avoiding social gatherings",
+      "Fear of embarrassment"
+    ],
+    "tips": [
+      "Practice social skills gradually",
+      "Challenge negative thoughts",
+      "Join supportive groups",
+      "Focus on others rather than yourself"
+    ],
+    "icon": "👥"
+  },
+  {
+    "id": "9",
+    "name": "Thanatophobia",
+    "scientific": "Thanatophobia",
+    "category": "existential",
+    "definition": "Fear of death or dying",
+    "symptoms": [
+      "Obsessive thoughts about death",
+      "Avoiding funeral homes",
+      "Panic when thinking of mortality",
+      "Sleep disturbances"
+    ],
+    "tips": [
+      "Focus on living in the present",
+      "Practice mindfulness meditation",
+      "Talk to a counselor",
+      "Engage in meaningful activities"
+    ],
+    "icon": "⚰️"
+  },
+  {
+    "id": "10",
+    "name": "Nyctophobia",
+    "scientific": "Nyctophobia",
+    "category": "environmental",
+    "definition": "Fear of darkness or night",
+    "symptoms": [
+      "Inability to sleep in dark",
+      "Need for night lights",
+      "Panic in dark spaces",
+      "Avoiding dark areas"
+    ],
+    "tips": [
+      "Use gradual light reduction",
+      "Practice relaxation in dim light",
+      "Create positive bedtime routine",
+      "Use calming sounds or music"
+    ],
+    "icon": "🌙"
+  },
+  {
+    "id": "11",
+    "name": "Cynophobia",
+    "scientific": "Cynophobia",
+    "category": "animals",
+    "definition": "Fear of dogs",
+    "symptoms": [
+      "Crossing street to avoid dogs",
+      "Panic when hearing barking",
+      "Sweating around dogs",
+      "Avoiding dog owners"
+    ],
+    "tips": [
+      "Start by observing calm dogs from distance",
+      "Learn about dog body language",
+      "Practice breathing exercises",
+      "Consider gradual exposure with professional help"
+    ],
+    "icon": "🐕"
+  },
+  {
+    "id": "12",
+    "name": "Thalassophobia",
+    "scientific": "Thalassophobia",
+    "category": "environmental",
+    "definition": "Fear of the ocean or deep water",
+    "symptoms": [
+      "Panic near large bodies of water",
+      "Avoiding beaches or pools",
+      "Fear of what's beneath water",
+      "Nausea when thinking of deep water"
+    ],
+    "tips": [
+      "Start with shallow water exposure",
+      "Learn swimming in controlled environment",
+      "Practice visualization techniques",
+      "Focus on water safety knowledge"
+    ],
+    "icon": "🌊"
+  },
+  {
+    "id": "13",
+    "name": "Hemophobia",
+    "scientific": "Hemophobia",
+    "category": "medical",
+    "definition": "Fear of blood",
+    "symptoms": [
+      "Fainting at sight of blood",
+      "Avoiding medical procedures",
+      "Nausea when seeing blood",
+      "Panic during injuries"
+    ],
+    "tips": [
+      "Practice applied tension technique",
+      "Start with cartoon blood images",
+      "Learn first aid to feel more prepared",
+      "Use distraction techniques during medical visits"
+    ],
+    "icon": "🩸"
+  },
+  {
+    "id": "14",
+    "name": "Glossophobia",
+    "scientific": "Glossophobia",
+    "category": "social",
+    "definition": "Fear of public speaking",
+    "symptoms": [
+      "Trembling before presentations",
+      "Avoiding speaking opportunities",
+      "Rapid heartbeat when speaking",
+      "Voice shaking during speech"
+    ],
+    "tips": [
+      "Practice in front of mirror",
+      "Start with small audiences",
+      "Prepare thoroughly",
+      "Use breathing techniques before speaking"
+    ],
+    "icon": "🎤"
+  },
+  {
+    "id": "15",
+    "name": "Entomophobia",
+    "scientific": "Entomophobia",
+    "category": "animals",
+    "definition": "Fear of insects",
+    "symptoms": [
+      "Screaming when seeing bugs",
+      "Avoiding outdoor activities",
+      "Checking for insects constantly",
+      "Panic in gardens or parks"
+    ],
+    "tips": [
+      "Learn about beneficial insects",
+      "Practice relaxation when seeing bugs",
+      "Start with pictures of insects",
+      "Focus on insects' role in nature"
+    ],
+    "icon": "🐛"
+  },
+  {
+    "id": "16",
+    "name": "Coulrophobia",
+    "scientific": "Coulrophobia",
+    "category": "social",
+    "definition": "Fear of clowns",
+    "symptoms": [
+      "Avoiding circuses or parties",
+      "Panic when seeing clown imagery",
+      "Nightmares about clowns",
+      "Anxiety around costumed characters"
+    ],
+    "tips": [
+      "Understand clowns are just people in costume",
+      "Start with friendly cartoon clowns",
+      "Practice relaxation techniques",
+      "Focus on the person behind the makeup"
+    ],
+    "icon": "🤡"
+  },
+  {
+    "id": "17",
+    "name": "Astraphobia",
+    "scientific": "Astraphobia",
+    "category": "environmental",
+    "definition": "Fear of thunder and lightning",
+    "symptoms": [
+      "Hiding during storms",
+      "Checking weather constantly",
+      "Panic during thunderstorms",
+      "Inability to sleep during storms"
+    ],
+    "tips": [
+      "Learn about weather science",
+      "Create a safe space during storms",
+      "Use calming music or white noise",
+      "Practice deep breathing during storms"
+    ],
+    "icon": "⚡"
+  },
+  {
+    "id": "18",
+    "name": "Dentophobia",
+    "scientific": "Dentophobia",
+    "category": "medical",
+    "definition": "Fear of dentists or dental procedures",
+    "symptoms": [
+      "Avoiding dental appointments",
+      "Panic in dental office",
+      "Sweating during dental work",
+      "Postponing necessary treatment"
+    ],
+    "tips": [
+      "Communicate fears with dentist",
+      "Ask about sedation options",
+      "Practice relaxation before appointments",
+      "Bring headphones for distraction"
+    ],
+    "icon": "🦷"
+  },
+  {
+    "id": "19",
+    "name": "Nomophobia",
+    "scientific": "Nomophobia",
+    "category": "modern",
+    "definition": "Fear of being without mobile phone contact",
+    "symptoms": [
+      "Panic when phone battery dies",
+      "Constantly checking phone",
+      "Anxiety without phone signal",
+      "Fear of missing messages"
+    ],
+    "tips": [
+      "Practice phone-free time periods",
+      "Use mindfulness techniques",
+      "Focus on face-to-face interactions",
+      "Set specific phone checking times"
+    ],
+    "icon": "📱"
+  },
+  {
+    "id": "20",
+    "name": "Mysophobia",
+    "scientific": "Mysophobia",
+    "category": "contamination",
+    "definition": "Fear of germs or contamination",
+    "symptoms": [
+      "Excessive hand washing",
+      "Avoiding public surfaces",
+      "Panic about getting sick",
+      "Compulsive cleaning behaviors"
+    ],
+    "tips": [
+      "Learn about normal immune system",
+      "Practice gradual exposure to 'dirty' objects",
+      "Challenge catastrophic thoughts",
+      "Focus on reasonable hygiene practices"
+    ],
+    "icon": "🦠"
+  },
+  {
+    "id": "21",
+    "name": "Automatonophobia",
+    "scientific": "Automatonophobia",
+    "category": "objects",
+    "definition": "Fear of humanoid figures like mannequins, dolls, or robots",
+    "symptoms": [
+      "Avoiding stores with mannequins",
+      "Panic around dolls",
+      "Fear of wax figures",
+      "Anxiety in toy stores"
+    ],
+    "tips": [
+      "Start with cartoon versions",
+      "Focus on the inanimate nature",
+      "Practice relaxation techniques",
+      "Gradual exposure with support"
+    ],
+    "icon": "🤖"
+  },
+  {
+    "id": "22",
+    "name": "Megalophobia",
+    "scientific": "Megalophobia",
+    "category": "objects",
+    "definition": "Fear of large objects",
+    "symptoms": [
+      "Panic near large buildings",
+      "Fear of large vehicles",
+      "Anxiety around statues",
+      "Avoiding large structures"
+    ],
+    "tips": [
+      "Start with smaller versions",
+      "Focus on the purpose of large objects",
+      "Practice grounding techniques",
+      "Use breathing exercises when encountering large objects"
+    ],
+    "icon": "🏢"
+  },
+  {
+    "id": "23",
+    "name": "Submechanophobia",
+    "scientific": "Submechanophobia",
+    "category": "objects",
+    "definition": "Fear of submerged man-made objects",
+    "symptoms": [
+      "Panic near sunken ships",
+      "Fear of underwater structures",
+      "Anxiety about submerged vehicles",
+      "Avoiding underwater documentaries"
+    ],
+    "tips": [
+      "Learn about underwater archaeology",
+      "Start with pictures from distance",
+      "Focus on historical significance",
+      "Practice relaxation when viewing images"
+    ],
+    "icon": "🚢"
+  },
+  {
+    "id": "24",
+    "name": "Ombrophobia",
+    "scientific": "Ombrophobia",
+    "category": "environmental",
+    "definition": "Fear of rain",
+    "symptoms": [
+      "Panic during rainfall",
+      "Avoiding going out in rain",
+      "Anxiety about weather forecasts",
+      "Fear of getting wet"
+    ],
+    "tips": [
+      "Focus on rain's benefits to nature",
+      "Practice mindfulness during light rain",
+      "Use umbrella for sense of control",
+      "Listen to calming rain sounds"
+    ],
+    "icon": "🌧️"
+  },
+  {
+    "id": "25",
+    "name": "Chirophobia",
+    "scientific": "Chirophobia",
+    "category": "body",
+    "definition": "Fear of hands",
+    "symptoms": [
+      "Avoiding handshakes",
+      "Fear of own hands",
+      "Panic when hands are touched",
+      "Hiding hands from others"
+    ],
+    "tips": [
+      "Practice hand exercises",
+      "Focus on hands' functionality",
+      "Gradual exposure to hand contact",
+      "Use positive hand affirmations"
+    ],
+    "icon": "✋"
+  },
+  {
+    "id": "26",
+    "name": "Pogonophobia",
+    "scientific": "Pogonophobia",
+    "category": "appearance",
+    "definition": "Fear of beards",
+    "symptoms": [
+      "Avoiding bearded people",
+      "Panic when seeing facial hair",
+      "Fear of touching beards",
+      "Anxiety in barber shops"
+    ],
+    "tips": [
+      "Start with pictures of friendly bearded people",
+      "Learn about beard grooming",
+      "Focus on the person behind the beard",
+      "Practice relaxation techniques"
+    ],
+    "icon": "🧔"
+  },
+  {
+    "id": "27",
+    "name": "Bibliophobia",
+    "scientific": "Bibliophobia",
+    "category": "objects",
+    "definition": "Fear of books",
+    "symptoms": [
+      "Avoiding libraries",
+      "Panic around books",
+      "Fear of reading",
+      "Anxiety in bookstores"
+    ],
+    "tips": [
+      "Start with picture books",
+      "Focus on books' knowledge value",
+      "Practice holding books briefly",
+      "Choose topics you enjoy"
+    ],
+    "icon": "📚"
+  },
+  {
+    "id": "28",
+    "name": "Technophobia",
+    "scientific": "Technophobia",
+    "category": "modern",
+    "definition": "Fear of technology",
+    "symptoms": [
+      "Avoiding new devices",
+      "Panic when using technology",
+      "Fear of breaking equipment",
+      "Anxiety about updates"
+    ],
+    "tips": [
+      "Start with simple devices",
+      "Take technology classes",
+      "Ask for patient instruction",
+      "Focus on technology's benefits"
+    ],
+    "icon": "💻"
+  },
+  {
+    "id": "29",
+    "name": "Spectrophobia",
+    "scientific": "Spectrophobia",
+    "category": "objects",
+    "definition": "Fear of mirrors",
+    "symptoms": [
+      "Avoiding mirrors",
+      "Covering mirrors at night",
+      "Panic when seeing reflection",
+      "Fear of what might appear"
+    ],
+    "tips": [
+      "Start with small mirrors",
+      "Practice positive self-talk",
+      "Focus on mirror's practical use",
+      "Gradual exposure with support"
+    ],
+    "icon": "🪞"
+  },
+  {
+    "id": "30",
+    "name": "Globophobia",
+    "scientific": "Globophobia",
+    "category": "objects",
+    "definition": "Fear of balloons",
+    "symptoms": [
+      "Panic at parties with balloons",
+      "Fear of balloon popping",
+      "Avoiding balloon decorations",
+      "Anxiety around inflated objects"
+    ],
+    "tips": [
+      "Start with deflated balloons",
+      "Learn about balloon materials",
+      "Practice relaxation at parties",
+      "Focus on celebration purpose"
+    ],
+    "icon": "🎈"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "animals",
+    "name": "Animal Fears",
+    "description": "Fears related to animals and creatures",
+    "icon": "🐾",
+    "color": "#FF6B6B",
+    "count": 5
+  },
+  {
+    "id": "situational",
+    "name": "Situational Fears",
+    "description": "Fears related to specific situations",
+    "icon": "🌍",
+    "color": "#4ECDC4",
+    "count": 4
+  },
+  {
+    "id": "social",
+    "name": "Social Fears",
+    "description": "Fears related to social interactions",
+    "icon": "👥",
+    "color": "#45B7D1",
+    "count": 3
+  },
+  {
+    "id": "environmental",
+    "name": "Environmental Fears",
+    "description": "Fears related to natural phenomena",
+    "icon": "🌿",
+    "color": "#96CEB4",
+    "count": 4
+  },
+  {
+    "id": "medical",
+    "name": "Medical Fears",
+    "description": "Fears related to medical procedures",
+    "icon": "🏥",
+    "color": "#FFEAA7",
+    "count": 2
+  },
+  {
+    "id": "objects",
+    "name": "Object Fears",
+    "description": "Fears related to specific objects",
+    "icon": "📦",
+    "color": "#DDA0DD",
+    "count": 6
+  },
+  {
+    "id": "patterns",
+    "name": "Pattern Fears",
+    "description": "Fears related to patterns and textures",
+    "icon": "🎨",
+    "color": "#F8BBD9",
+    "count": 1
+  },
+  {
+    "id": "modern",
+    "name": "Modern Fears",
+    "description": "Contemporary technology-related fears",
+    "icon": "📱",
+    "color": "#A8E6CF",
+    "count": 2
+  },
+  {
+    "id": "existential",
+    "name": "Existential Fears",
+    "description": "Fears about life, death, and meaning",
+    "icon": "🤔",
+    "color": "#FFB6C1",
+    "count": 1
+  },
+  {
+    "id": "contamination",
+    "name": "Contamination Fears",
+    "description": "Fears related to cleanliness and germs",
+    "icon": "🧼",
+    "color": "#B8E6B8",
+    "count": 1
+  },
+  {
+    "id": "body",
+    "name": "Body-Related Fears",
+    "description": "Fears related to body parts or functions",
+    "icon": "👤",
+    "color": "#FFE4B5",
+    "count": 1
+  },
+  {
+    "id": "appearance",
+    "name": "Appearance Fears",
+    "description": "Fears related to physical appearance",
+    "icon": "💄",
+    "color": "#E6E6FA",
+    "count": 1
+  }
+]
